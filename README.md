@@ -12,15 +12,15 @@ To study and implement the for loop in Python for iterating over sequences and t
 Algorithm 1: Print Numbers Using for Loop
 1. Start
 2. Read the value of n
-3. Use for i in range(1, n+1)
-4. Print the value of i
+3. Use for loop (for) with range(1, n+1)
+4. Print the value of i (print)
 5. Stop
 
 Algorithm 2: Print Even Numbers
 1. Start
 2. Accept the upper limit n
-3. Use a for loop with range(2, n+1, 2)
-4. Print each even number obtained from the loop
+3. Use a for loop (for) with range(2, n+1, 2)
+4. Print each even number (print)
 5. Repeat until the limit is reached
 6. Stop
 
@@ -28,17 +28,17 @@ Algorithm 3: Sum of First n Numbers
 1. Start
 2. Read the value of n
 3. Initialize a variable sum = 0
-4. Use a for loop from 1 to n\
-5. Add each value to sum using sum = sum + i
-6. Display the final sum
+4. Use a for loop (for) from 1 to n
+5. Add each value using sum = sum + i
+6. Display the final sum (print)
 7. Stop
 
 Algorithm 4: Accept and Display a Matrix
 1. Start
 2. Read number of rows and columns
-3. Use nested for loops to accept matrix elements
+3. Use nested for loops (for, for) to accept matrix elements
 4. Store elements in a 2D list
-5. Use nested for loops to display the matrix
+5. Use nested for loops to display the matrix (print)
 6. Stop
 
 Algorithm 5: Matrix Multiplication
@@ -46,34 +46,34 @@ Algorithm 5: Matrix Multiplication
 2. Read two matrices from the user
 3. Check whether matrix multiplication is possible
 4. Initialize the result matrix with zeros
-5. Use three nested for loops
+5. Use three nested for loops (for, for, for)
 6. Multiply and add corresponding elements
 7. Store result in the result matrix
-8. Display the resultant matrix
+8. Display the resultant matrix (print)
 9. Stop
 
 Algorithm 6: Generate Combinations
 1. Start
-2. Initialize required range values
-3. Use nested for loops
+2. Initialize required range values (range)
+3. Use nested for loops (for, for)
 4. Generate different combinations
-5. Display each combination
+5. Display each combination (print)
 6. Stop
 
 Algorithm 7: Right-Angled Triangle Pattern
 1. Start
 2. Read number of rows
-3. Use outer for loop for rows
-4. Use inner for loop to print *
-5. Move to next line after each row
+3. Use outer for loop (for) for rows
+4. Use inner for loop (for) to print *
+5. Move to next line (print) after each row
 6. Stop
 
 Algorithm 8: Pyramid Pattern
 1. Start
 2. Read number of rows
-3. Use outer loop for row count
-4. Use inner loops for spaces and *
-5. Print pyramid pattern line by line
+3. Use outer loop (for) for row count
+4. Use inner loops (for) for spaces and *
+5. Print pyramid pattern line by line (print)
 6. Stop
 
 ### _**Conclusion**_
