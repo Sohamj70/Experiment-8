@@ -1,7 +1,12 @@
 ### _**Experiment 8: For Loop in Python**_
+
 ### _**Soham :25070123170**_
+
 ### _**AIM :**_
 To study and implement the for loop in Python for iterating over sequences and to perform operations such as number printing, summation, matrix operations, combinations, and pattern generation.
+
+
+
 ### _**THEROY**_
 - A for loop in Python is used to iterate over a sequence of values such as a list, range, or matrix.
 - The loop executes the block of code once for each element in the sequence.
@@ -9,6 +14,8 @@ To study and implement the for loop in Python for iterating over sequences and t
 - The loop variable takes one value at a time from the sequence during each iteration.
 - Nested for loops are used to work with multi-dimensional data structures such as matrices.
 - for loops are widely used for mathematical computations, matrix operations, and pattern printing.
+
+- 
 ### _AlGORITHMS_
 Algorithm 1: Print Numbers Using for Loop
 1. Start
